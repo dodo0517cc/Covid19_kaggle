@@ -57,3 +57,8 @@ Original / Prediction
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77607182/178152879-7bfb574c-af82-4467-afe4-cff5acfbbba5.png">
 
 Highest map@0.5 in 5 fold: 0.65
+
+
+### Score
+
+Ours / 1st place: 0.53 / 0.65
