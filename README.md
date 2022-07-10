@@ -20,7 +20,7 @@ For each test study：make a determination within the following labels (Negative
 
 Before / After
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/77607182/178152795-5aa34627-e761-4467-940b-b137aacac20c.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/77607182/178152801-3c45791c-533b-4459-bdc6-17a23be7c314.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/77607182/178152795-5aa34627-e761-4467-940b-b137aacac20c.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/77607182/178152801-3c45791c-533b-4459-bdc6-17a23be7c314.png">
 
 3. Deal with unbalanced data: weighted sampler
 
@@ -41,7 +41,8 @@ Before / After
 4. Augmentation
 
 Before / After
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/77607182/178152769-2276f86c-efa3-47c0-8cce-217f698a3594.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/77607182/178152777-65e14188-1496-45fa-96e6-cdf52f491ab3.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/77607182/178152769-2276f86c-efa3-47c0-8cce-217f698a3594.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/77607182/178152777-65e14188-1496-45fa-96e6-cdf52f491ab3.png">
 
 ### Model: EfficientDet (2019)
 
