@@ -26,7 +26,9 @@ Before / After
 
 ### Model: EfficientNet(2019)
 
-### Highest AUC in 5 fold: 0.745
+### Results
+
+Highest AUC in 5 fold: 0.745
 
 ## Object detection
 
@@ -46,10 +48,12 @@ Before / After
 
 ### Model: EfficientDet (2019)
 
+### Results
+
 Original / Prediction
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77607182/178152870-e1f0ed75-d5bd-427e-80f8-0fc61595712b.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77607182/178152875-82b5208f-28b9-4f60-ae1c-45bbbc9ceefa.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77607182/178152879-7bfb574c-af82-4467-afe4-cff5acfbbba5.png">
 
-### Highest map@0.5 in 5 fold: 0.65
+Highest map@0.5 in 5 fold: 0.65
