@@ -10,6 +10,8 @@ For each test image：predict a bounding box and class for all findings
 
 For each test study：make a determination within the following labels (Negative for Pneumonia/Typical Appearance/Indeterminate Appearance/Atypical) Appearance
 
+
+
 ## Classification
 
 ### Data preprocessing
@@ -24,11 +26,16 @@ Before / After
 
 3. Deal with unbalanced data: weighted sampler
 
+
 ### Model: EfficientNet(2019)
+
 
 ### Results
 
 Highest AUC in 5 fold: 0.745
+
+
+
 
 ## Object detection
 
@@ -46,7 +53,9 @@ Before / After
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/77607182/178152769-2276f86c-efa3-47c0-8cce-217f698a3594.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/77607182/178152777-65e14188-1496-45fa-96e6-cdf52f491ab3.png">
 
+
 ### Model: EfficientDet (2019)
+
 
 ### Results
 
@@ -57,6 +66,7 @@ Original / Prediction
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/77607182/178152879-7bfb574c-af82-4467-afe4-cff5acfbbba5.png">
 
 Highest map@0.5 in 5 fold: 0.65
+
 
 
 ## Score
