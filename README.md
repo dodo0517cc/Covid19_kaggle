@@ -61,4 +61,4 @@ Highest map@0.5 in 5 fold: 0.65
 
 ## Score
 
-Ours / 1st place: 0.53 / 0.65
+Ours / 1st place's: 0.53 / 0.65
